@@ -9,8 +9,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f64081169&show_icons=true&locale=en&layout=compact" alt="f64081169" /></p>
 
-<br />
-<br />
-
 [![F64081169's github stats](https://github-readme-stats.vercel.app/api?username=F64081169&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
