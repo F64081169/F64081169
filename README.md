@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cat Burglar</h1>
-<h3 align="center">A passionate CS student from NCKU</h3>
+<h3 align="center">A passionate CS student from NYCU</h3>
 <a href='https://ko-fi.com/F1F7BV2LO' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f64081169&label=Profile%20views&color=0e75b6&style=flat" alt="f64081169" /> </p>
 
